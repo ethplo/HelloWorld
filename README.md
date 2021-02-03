@@ -1,2 +1,2 @@
 # HelloWorld
-IntelliJ IDEA
+IntelliJ IDEA Hello world and Hello Ethan
